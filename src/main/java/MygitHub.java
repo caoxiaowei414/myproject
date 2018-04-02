@@ -5,8 +5,6 @@ public class MygitHub {
         System.out.println();
        String ss  = "shangchauchengg ";
 
-        ss  = "shangchauchengg ";
-       ss  = "shangchauchengg ";
 
     }
 }
